@@ -5,9 +5,10 @@
 
 </p>
 
-#👋👋Hola, soy Ariel Orlando Cahuza Huanca 👋👋
+👋👋Hola, soy Ariel Orlando Cahuza Huanca 👋👋
 
-Soy un estidiante de [**Deasarrolo de Aplicaciones Web**]
+Soy un estudiante de **Deasarrolo de Aplicaciones Web** en el instituto **IES LUIS VIVES** y **Tecnico en Sistemas Microinformaticos y Redes**. Ademas de un gran apasionado por la **musica electronica** y **Djay en mi tiempo libre como hoobie**. Y el desarrollo de software me encanta porque es como crear al desde cero igual que una cancion partiendo desde dos para crear una nueva. Dandole tu toque y estilo propio. Para crear tu propio sonido y estilo y diferencianrte de los demas.
+
 
 <!--
 **ArielOrlando/ArielOrlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
