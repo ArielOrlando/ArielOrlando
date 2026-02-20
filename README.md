@@ -1,4 +1,13 @@
-## Hi there 👋
+<p>
+   <img loading="lazy" style="border-radius: 0.25rem;" 
+      src="./imgs/banner.png" alt="Logo" 
+      borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
+
+</p>
+
+#👋👋Hola, soy Ariel Orlando Cahuza Huanca 👋👋
+
+Soy un estidiante de [**Deasarrolo de Aplicaciones Web**]
 
 <!--
 **ArielOrlando/ArielOrlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
