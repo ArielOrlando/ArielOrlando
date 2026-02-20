@@ -5,9 +5,9 @@
 
 </p>
 
-# 👋👋Hola, soy Ariel Orlando Cahuza Huanca 👋👋
+# 👋👋<ins>Hola, soy Ariel Orlando Cahuza Huanca</ins>👋👋
 
-## Soy un estudiante de **Deasarrolo de Aplicaciones Web** en el instituto <ins>**IES LUIS VIVES**</ins> y **Tecnico en Sistemas Microinformaticos y Redes**. Ademas de un gran apasionado por la **musica electronica** y **Djay en mi tiempo libre como hoobie**. Y el desarrollo de software me encanta porque es como crear al desde cero igual que una cancion partiendo desde dos para crear una nueva. Dandole tu toque y estilo propio. Para crear tu propio sonido y estilo y diferencianrte de los demas.
+## Soy un estudiante de **Deasarrolo de Aplicaciones Web** en el instituto <ins>**IES LUIS VIVES**</ins> y <ins>**Tecnico en Sistemas Microinformaticos y Redes**</ins>. Ademas de un gran apasionado por la <ins>**musica electronica**</ins> y <ins>**Djay en mi tiempo libre como hoobie**</ins>. Y el desarrollo de software me encanta porque es como crear al desde cero igual que una cancion partiendo desde dos para crear una nueva. Dandole tu toque y estilo propio. Para crear tu propio sonido y estilo y diferencianrte de los demas.
 
 ----
 <div align="center">
@@ -31,7 +31,26 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
+</div>
 
+---
+## <ins>Aprendiendo a usar Herramientas Y Tecnologias como:</ins>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+&nbsp;
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white)
+&nbsp;
+![CSHARP](https://img.shields.io/badge/CSHARP-99CC00?style=for-the-badge&logo=CSHARP&logoColor=white)
+&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white)
+&nbsp;
+![RIDER](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
+&nbsp;
+![JETBRAINS](https://img.shields.io/badge/Jetbrains-000000?style=for-the-badge&logo=Jetbrains&logoColor=white)
+&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
