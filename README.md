@@ -5,9 +5,24 @@
 
 </p>
 
-👋👋Hola, soy Ariel Orlando Cahuza Huanca 👋👋
+# 👋👋Hola, soy Ariel Orlando Cahuza Huanca 👋👋
 
-Soy un estudiante de **Deasarrolo de Aplicaciones Web** en el instituto **IES LUIS VIVES** y **Tecnico en Sistemas Microinformaticos y Redes**. Ademas de un gran apasionado por la **musica electronica** y **Djay en mi tiempo libre como hoobie**. Y el desarrollo de software me encanta porque es como crear al desde cero igual que una cancion partiendo desde dos para crear una nueva. Dandole tu toque y estilo propio. Para crear tu propio sonido y estilo y diferencianrte de los demas.
+## Soy un estudiante de **Deasarrolo de Aplicaciones Web** en el instituto <ins>**IES LUIS VIVES**</ins> y **Tecnico en Sistemas Microinformaticos y Redes**. Ademas de un gran apasionado por la **musica electronica** y **Djay en mi tiempo libre como hoobie**. Y el desarrollo de software me encanta porque es como crear al desde cero igual que una cancion partiendo desde dos para crear una nueva. Dandole tu toque y estilo propio. Para crear tu propio sonido y estilo y diferencianrte de los demas.
+
+<div>
+
+![Icono de Musica](imgs/Headphones.gif)
+
+[![Imagen con enlace a mmi linkedin](imgs/Githug.png)](https://github.com/ArielOrlando)
+
+![Icono de Musica](imgs/Html.gif)
+
+[![Imagen con enlace a mi Perfil de Soundcloud](imgs/Soundcloud.svg)](https://soundcloud.com/hard-kick-boy?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+![Icono de Web Design](imgs/web-design.gif)
+
+</div>
+
 
 
 <!--
