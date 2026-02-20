@@ -5,9 +5,9 @@
 
 </p>
 
-# 👋👋<ins>Hola, soy Ariel Orlando Cahuza Huanca</ins>👋👋
+# 👋👋<ins>Hola, soy Ariel Orlando Cahuaza Huanca</ins>👋👋
 
-## Soy un estudiante de **Deasarrolo de Aplicaciones Web** en el instituto <ins>**IES LUIS VIVES**</ins> y <ins>**Tecnico en Sistemas Microinformaticos y Redes**</ins>. Ademas de un gran apasionado por la <ins>**musica electronica**</ins> y <ins>**Djay en mi tiempo libre como hoobie**</ins>. Y el desarrollo de software me encanta porque es como crear al desde cero igual que una cancion partiendo desde dos para crear una nueva. Dandole tu toque y estilo propio. Para crear tu propio sonido y estilo y diferencianrte de los demas.
+## Soy un estudiante de <ins>**Deasarrolo de Aplicaciones Web**</ins> en el instituto <ins>**IES LUIS VIVES**</ins> y <ins>**Tecnico en Sistemas Microinformaticos y Redes**</ins>. Además de un gran apasionado por la <ins>**musica electronica**</ins> y <ins>**Dj en mi tiempo libre como hoobie**</ins>. Y el desarrollo de software me encanta porque es como crear al desde cero igual que una canción partiendo desde dos para crear una nueva. Dandole tu toque y estilo propio. Para crear tu propio sonido y estilo y diferenciarte de los demas.
 
 ----
 <div align="center">
