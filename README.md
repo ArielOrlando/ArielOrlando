@@ -25,6 +25,7 @@
 
 ---
 ## 📫📫 Contacto 
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArielOrlando)
@@ -34,25 +35,23 @@
 </div>
 
 ---
-## <ins>Aprendiendo a usar Herramientas Y Tecnologias como:</ins>
-
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-&nbsp;
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white)
-&nbsp;
-![CSHARP](https://img.shields.io/badge/CSHARP-99CC00?style=for-the-badge&logo=CSHARP&logoColor=white)
-&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white)
-&nbsp;
-![RIDER](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
-&nbsp;
-![JETBRAINS](https://img.shields.io/badge/Jetbrains-000000?style=for-the-badge&logo=Jetbrains&logoColor=white)
-&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## <ins>Aprendiendo a usar Herramientas Y Tecnologias como:</ins>
 
 </div>
+
+
+|Nombre | Nivel de manejo |
+| :---  | :---     |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) | Uso Intermedio |
+| ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white) | Manejo Intermedio |
+| ![CSHARP](https://img.shields.io/badge/CSHARP-99CC00?style=for-the-badge&logo=CSHARP&logoColor=white) | En proceso |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white) | En proceso |
+| ![RIDER](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white) | En proceso |
+| ![JETBRAINS](https://img.shields.io/badge/Jetbrains-000000?style=for-the-badge&logo=Jetbrains&logoColor=white) | En proceso |
+| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | Uso Intermedio |
+
 
 <!--
 **ArielOrlando/ArielOrlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
